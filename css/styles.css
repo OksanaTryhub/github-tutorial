@@ -1,5 +1,5 @@
 body {
-    background-color: blue;
+    background-color: rgb(207, 207, 231);
     color: black
     ;
 }
@@ -16,4 +16,27 @@ table th,
 table td {
   padding: 10px;
   border: 1px solid #2a2a2a;
+}
+
+.accent {
+    color: rgb(180, 66, 66);
+}
+
+pre {
+    color: red;
+    font-family: sans-serif;
+    line-height: 1.5;    
+}
+
+.mangomail {
+    color: red;
+}
+
+.tel {
+    color: green;
+}
+
+.attention {
+    font-style: italic;
+    color: violet;
 }
